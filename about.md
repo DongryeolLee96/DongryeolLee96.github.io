@@ -8,7 +8,7 @@ Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advis
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My research interest is broadly in machine learning and natural language process.
 
 ### Contact me
 

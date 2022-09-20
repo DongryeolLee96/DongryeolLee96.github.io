@@ -8,7 +8,8 @@ Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advis
 
 ### More Information
 
-My research interest is broadly in machine learning and natural language process.
+My research interest is broadly in machine learning and natural language process. 
+
 I am also interested in Open-domain Question Answering, and Domain adaptation of retriever.
 
 ### Contact me

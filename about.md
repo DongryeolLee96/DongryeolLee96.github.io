@@ -28,5 +28,5 @@ EMNLP 2023, (Findings)
    EMNLP 2023 Workshop on Argument Mining
 
 4. **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**\
-   Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwnanhee Lee, Hyunkyung Bae, and Kyomin Jung\
+   Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung\
    ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering

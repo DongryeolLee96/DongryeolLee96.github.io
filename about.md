@@ -30,3 +30,5 @@ EMNLP 2023, (Findings)
 4. **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**\
    Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung\
    ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering
+
+### [CV](https://github.com/DongryeolLee96/DongryeolLee96.github.io/pdf/dongryeollee_cv.pdf)

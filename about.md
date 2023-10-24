@@ -18,8 +18,8 @@ I am also interested in Question Answering and evaluation metrics.
 
 ### Publications
 
-1. **Asking Clarification Questions to Handle Ambiguity in Open-Domain QA***
-**Dongryeol Lee<sup>*</sup>**, Segwang Kim<sup>*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung
+1. **Asking Clarification Questions to Handle Ambiguity in Open-Domain QA***\
+**Dongryeol Lee<sup>*</sup>**, Segwang Kim<sup>*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung\
 EMNLP 2023, (Findings)
 
 

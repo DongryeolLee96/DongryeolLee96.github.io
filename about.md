@@ -18,9 +18,9 @@ I am also interested in Question Answering and evaluation metrics.
 
 ### Publications
 
-[1] &emsp;**Asking Clarification Questions to Handle Ambiguity in Open-Domain QA***  
-    &emsp;&emsp;**Dongryeol Lee<sup>*</sup>**, Segwang Kim<sup>*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung  
-    &emsp;&emsp;EMNLP 2023, (Findings)
+[1]**Asking Clarification Questions to Handle Ambiguity in Open-Domain QA***  
+    **Dongryeol Lee<sup>*</sup>**, Segwang Kim<sup>*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung  
+    EMNLP 2023, (Findings)
 
 
 [2] **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**  

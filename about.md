@@ -24,7 +24,7 @@ EMNLP 2023, (Findings)
 
 
 3. **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**\
-   Yoonsang Lee<sup>*</sup>, **Dongryeol Lee<sup>*</sup>**, and Kyomin Jung\
+   Yoonsang Leee<sup>*</sup>, **Dongryeol Lee<sup>*</sup>**, and Kyomin Jung\
    EMNLP 2023 Workshop on Argument Mining
 
 4. **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**\

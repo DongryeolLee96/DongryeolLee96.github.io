@@ -1,12 +1,10 @@
 ---
 layout: post
-title: MultiDoc2Dial
+title: MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+EMNLP 2023 Workshop on Argument Mining
 
-![_config.yml]({{ site.baseurl }}/images/multidoc2dial.png)
+![_config.yml]({{ site.baseurl }}/images/pragtag.png)
 
-Proposed MultiDoc2Dial : A new task and dataset on modeling goal-oriented dialogues grounded in multiple documents.
-Aim to address more realistic scenarios where a goal-oriented information-seeking conversation involves multiple topics, and hence is grounded on different documents.
-Baseline model : 
+Paper available TBD.

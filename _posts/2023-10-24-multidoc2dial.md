@@ -7,4 +7,4 @@ ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answ
 
 ![_config.yml]({{ site.baseurl }}/images/multidoc2dial.png)
 
-Paper available [here]([https://aclanthology.org/2022.dialdoc-1.15.pdf)https://aclanthology.org/2022.dialdoc-1.15.pdf]).
+Paper available [here]([https://aclanthology.org/2022.dialdoc-1.15.pdf])).

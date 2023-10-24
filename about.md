@@ -31,4 +31,4 @@ EMNLP 2023, (Findings)
    Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung\
    ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering
 
-### [CV](https://github.com/DongryeolLee96/DongryeolLee96.github.io/pdf/dongryeollee_cv.pdf)
+### [CV](https://dongryeollee96.github.io/pdf/dongryeollee_cv.pdf)

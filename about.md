@@ -23,10 +23,10 @@ I am also interested in Question Answering and evaluation metrics.
 EMNLP 2023, (Findings)
 
 
-3. **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**  
-   Yoonsang Lee<sup>*</sup>, **Dongryeol Lee<sup>*</sup>**, and Kyomin Jung  
+3. **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**\
+   Yoonsang Lee<sup>*</sup>, **Dongryeol Lee<sup>*</sup>**, and Kyomin Jung\
    EMNLP 2023 Workshop on Argument Mining
 
-4. **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**  
-   Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwnanhee Lee, Hyunkyung Bae, and Kyomin Jung  
+4. **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**\
+   Yunah Jang, **Dongryeol Lee**, Hyung Joo Park, Taegwan Kang, Hwnanhee Lee, Hyunkyung Bae, and Kyomin Jung\
    ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering

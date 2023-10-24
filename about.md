@@ -10,8 +10,10 @@ Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advis
 
 My research interest is broadly in machine learning and natural language process. 
 
-I am also interested in Open-domain Question Answering, especially Domain Adaptation Retriever.
+I am also interested in Question Answering and evaluation metrics.
 
 ### Contact me
 
 [drl123@snu.ac.kr](mailto:drl123@snu.ac.kr)
+
+### Publications

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof.[Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)

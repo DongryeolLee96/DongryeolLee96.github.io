@@ -39,7 +39,7 @@ EMNLP 2023, (Findings)
    Kyungmin Min, Minbeom Kim, Kang-il Lee, <ins>Dongryeol Lee</ins>, and Kyomin Jung<sup>&dagger;</sup>\
    Neurips 2024 Workshop on Safe Generative AI
 
- &ensp;&emsp;[[paper](https://arxiv.org/abs/2410.13321)]
+ &ensp;[[paper](https://arxiv.org/abs/2410.13321)]
 
 
  **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**\

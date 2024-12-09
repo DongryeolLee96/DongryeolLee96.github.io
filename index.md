@@ -17,6 +17,9 @@ I am interested in Question Answering and fair evaluation metrics.
 [drl123@snu.ac.kr](mailto:drl123@snu.ac.kr)
 
 ### Publications
+
+&dagger; Corresponding Authors
+* Equal Contribution
 -------------
  **Return of EM: Entity-driven Answer Set Expansion for QA Evaluation**\
 **Dongryeol Lee**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
@@ -51,5 +54,4 @@ EMNLP 2023, (Findings)
 
 ### [CV](https://dongryeollee96.github.io/pdf/dongryeollee_cv.pdf)
 
-&dagger; Corresponding Authors
 

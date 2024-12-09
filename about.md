@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
+
 Hi! I am a Ph.D student at Seoul National University. I am fortunate to be advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)
 
 ### More Information
@@ -17,14 +18,14 @@ I am interested in Question Answering and fair evaluation metrics.
 [drl123@snu.ac.kr](mailto:drl123@snu.ac.kr)
 
 ### Publications
-1. **[Return of EM: Entity-driven Answer Set Expansion for QA Evaluation**\
-**Dongryeol Lee](https://arxiv.org/abs/2404.15650)**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
+1. **[Return of EM: Entity-driven Answer Set Expansion for QA Evaluation](https://arxiv.org/abs/2404.15650)**\
+**Dongryeol Lee**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
 COLING 2025
 
  &emsp;&emsp;[[code](https://github.com/DongryeolLee96/ENTQA)]
 
-2. **[Asking Clarification Questions to Handle Ambiguity in Open-Domain QA**\
-**Dongryeol Lee](https://aclanthology.org/2023.findings-emnlp.772/)**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
+2. **[Asking Clarification Questions to Handle Ambiguity in Open-Domain QA](https://aclanthology.org/2023.findings-emnlp.772/)**\
+**Dongryeol Lee**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
 EMNLP 2023, (Findings)
 
  &emsp;&emsp;[[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]

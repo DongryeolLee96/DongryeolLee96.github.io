@@ -18,8 +18,8 @@ I am interested in Question Answering and fair evaluation metrics.
 
 ### Publications
 
-&dagger; Corresponding Authors
-* Equal Contribution
+&dagger; indicates corresponding author
+ * indicates equal contribution among authors
 -------------
  **Return of EM: Entity-driven Answer Set Expansion for QA Evaluation**\
 **Dongryeol Lee**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\

@@ -21,13 +21,13 @@ I am interested in Question Answering and fair evaluation metrics.
 **Dongryeol Lee](https://arxiv.org/abs/2404.15650)**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
 COLING 2025
 
- &ensp;[[code](https://github.com/DongryeolLee96/ENTQA)]
+ &emsp;&emsp;&emsp;[[code](https://github.com/DongryeolLee96/ENTQA)]
 
 2. **[Asking Clarification Questions to Handle Ambiguity in Open-Domain QA**\
 **Dongryeol Lee](https://aclanthology.org/2023.findings-emnlp.772/)**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
 EMNLP 2023, (Findings)
 
- &ensp;[[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
+ &emsp;&emsp;&emsp;[[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
 
 3. **[Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](https://arxiv.org/abs/2410.13321)**\
    Kyungmin Min, Minbeom Kim, Kang-il Lee, **Dongryeol Lee**, and Kyomin Jung<sup>&dagger;</sup>\

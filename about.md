@@ -28,7 +28,7 @@ COLING 2025
 **Dongryeol Lee**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
 EMNLP 2023, (Findings)
 
- &emsp;&emsp;[[paper](https://aclanthology.org/2023.findings-emnlp.772/)][[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
+ &emsp;&emsp;[[paper](https://aclanthology.org/2023.findings-emnlp.772/)] [[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
 
  3. **Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding**\
    Kyungmin Min, Minbeom Kim, Kang-il Lee, **Dongryeol Lee**, and Kyomin Jung<sup>&dagger;</sup>\

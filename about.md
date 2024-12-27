@@ -24,32 +24,32 @@ I am interested in Question Answering and fair evaluation metrics.
 
 -------------
  **Return of EM: Entity-driven Answer Set Expansion for QA Evaluation**\
-<ins>Dongryeol Lee</ins>, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
+**<ins>Dongryeol Lee</ins>**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
 COLING 2025
 
  &ensp;[[paper](https://arxiv.org/abs/2404.15650)] [[code](https://github.com/DongryeolLee96/ENTQA)]
 
  **Asking Clarification Questions to Handle Ambiguity in Open-Domain QA**\
-<ins>Dongryeol Lee</ins><sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
+**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\
 EMNLP 2023, (Findings)
 
  &ensp;[[paper](https://aclanthology.org/2023.findings-emnlp.772/)] [[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
 
  **Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding**\
-   Kyungmin Min, Minbeom Kim, Kang-il Lee, <ins>Dongryeol Lee</ins>, and Kyomin Jung<sup>&dagger;</sup>\
+   Kyungmin Min, Minbeom Kim, Kang-il Lee, **<ins>Dongryeol Lee</ins>**, and Kyomin Jung<sup>&dagger;</sup>\
    Neurips 2024 Workshop on Safe Generative AI
 
  &ensp;[[paper](https://arxiv.org/abs/2410.13321)]
 
 
  **MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty**\
-   Yoonsang Lee<sup>\*</sup>, <ins>Dongryeol Lee</ins><sup>\*</sup>, and Kyomin Jung<sup>&dagger;</sup>\
+   Yoonsang Lee<sup>\*</sup>, **<ins>Dongryeol Lee</ins>**<sup>\*</sup>, and Kyomin Jung<sup>&dagger;</sup>\
    EMNLP 2023 Workshop on Argument Mining
 
  &ensp;[[paper](https://aclanthology.org/2023.argmining-1.24/)]
 
  **Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model**\
-   Yunah Jang, <ins>Dongryeol Lee</ins>, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung<sup>&dagger;</sup>\
+   Yunah Jang, **<ins>Dongryeol Lee</ins>**, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung<sup>&dagger;</sup>\
    ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering
 
  &ensp;[[paper](https://aclanthology.org/2022.dialdoc-1.15/)]

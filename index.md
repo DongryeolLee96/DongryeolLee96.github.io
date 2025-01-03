@@ -26,7 +26,7 @@ I am interested in Question Answering and fair evaluation metrics.
 -------------
  Return of EM: Entity-driven Answer Set Expansion for QA Evaluation\
 &ensp;**<ins>Dongryeol Lee</ins>**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
- &ensp;COLING 2025
+ &ensp;COLING 2025 (Oral)
 
  &ensp;[[paper](https://arxiv.org/abs/2404.15650)] [[code](https://github.com/DongryeolLee96/ENTQA)]
 

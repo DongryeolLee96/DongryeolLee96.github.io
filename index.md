@@ -28,7 +28,7 @@ I am interested in Question Answering and fair evaluation metrics.
 &ensp;**<ins>Dongryeol Lee</ins>**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;COLING 2025 (Oral)
 
- &ensp;[[paper](https://arxiv.org/abs/2404.15650)] [[code](https://github.com/DongryeolLee96/ENTQA)]
+ &ensp;[[paper](https://aclanthology.org/2025.coling-main.743/)] [[code](https://github.com/DongryeolLee96/ENTQA)]
 
  Asking Clarification Questions to Handle Ambiguity in Open-Domain QA\
  &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\

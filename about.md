@@ -25,6 +25,30 @@ I am interested in Question Answering and fair evaluation metrics.
 \* indicates equal contribution among authors
 
 -------------
+ Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation\
+&ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Yerin Hwang<sup>\*</sup>, Yongil Kim, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;NAACL 2025 (Main)
+
+&ensp;[[paper](https://arxiv.org/abs/2410.20774)]
+
+  Generating Diverse Hypotheses for Inductive Reasoning\
+&ensp;Kang-il Lee, Hyukhun Koh, **<ins>Dongryeol Lee</ins>**, Seunghyun Yoon, Minsung Kim, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;NAACL 2025 (Main)
+
+&ensp;[[paper](https://arxiv.org/abs/2412.13422)]
+
+  VLind-Bench: Measuring Language Priors in Large Vision-Language Models\
+&ensp;Kang-il Lee, Minbeom Kim, Seunghyun Yoon, Minsung Kim, **<ins>Dongryeol Lee</ins>**, Hyukhun Koh, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;NAACL 2025 (Findings)
+
+&ensp;[[paper](https://arxiv.org/abs/2406.08702)]
+
+Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding\
+   &ensp;Kyungmin Min, Minbeom Kim, Kang-il Lee, **<ins>Dongryeol Lee</ins>**, and Kyomin Jung<sup>&dagger;</sup>\
+   &ensp;NAACL 2025 (Findings)
+
+ &ensp;[[paper](https://arxiv.org/abs/2410.13321)]
+
  Return of EM: Entity-driven Answer Set Expansion for QA Evaluation\
 &ensp;**<ins>Dongryeol Lee</ins>**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;COLING 2025 (Oral)

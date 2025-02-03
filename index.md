@@ -29,7 +29,7 @@ I am interested in Question Answering and fair evaluation metrics.
 &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Yerin Hwang<sup>\*</sup>, Yongil Kim, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;NAACL 2025 (Main)
 
-&ensp;[[paper](https://arxiv.org/abs/2410.20774)]
+&ensp;[[paper](https://arxiv.org/abs/2410.20774)] [[code](https://github.com/DongryeolLee96/EMBER)]
 
   Generating Diverse Hypotheses for Inductive Reasoning\
 &ensp;Kang-il Lee, Hyukhun Koh, **<ins>Dongryeol Lee</ins>**, Seunghyun Yoon, Minsung Kim, and Kyomin Jung<sup>&dagger;</sup>\
@@ -53,7 +53,7 @@ Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Dec
 &ensp;**<ins>Dongryeol Lee</ins>**, Minwoo Lee, Kyungmin Min, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;COLING 2025 (Oral)
 
- &ensp;[[paper](https://aclanthology.org/2025.coling-main.743/)] [[code](https://github.com/DongryeolLee96/ENTQA)]
+ &ensp;[[paper](https://aclanthology.org/2025.coling-main.743/)] [[code](https://github.com/DongryeolLee96/ENTQA)] [[slides](https://dongryeollee96.github.io/pdf/COLING2025_ENTQA_slides.pdf)]
 
  Asking Clarification Questions to Handle Ambiguity in Open-Domain QA\
  &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Segwang Kim<sup>\*</sup>, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, and Kyomin Jung<sup>&dagger;</sup>\

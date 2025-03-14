@@ -27,13 +27,13 @@ I am interested in Question Answering and fair evaluation metrics.
 -------------
  Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation\
 &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Yerin Hwang<sup>\*</sup>, Yongil Kim, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
- &ensp;NAACL 2025 (Main)
+ &ensp;NAACL 2025 (Oral)
 
 &ensp;[[paper](https://arxiv.org/abs/2410.20774)] [[code](https://github.com/DongryeolLee96/EMBER)]
 
   Generating Diverse Hypotheses for Inductive Reasoning\
 &ensp;Kang-il Lee, Hyukhun Koh, **<ins>Dongryeol Lee</ins>**, Seunghyun Yoon, Minsung Kim, and Kyomin Jung<sup>&dagger;</sup>\
- &ensp;NAACL 2025 (Main)
+ &ensp;NAACL 2025 (Oral)
 
 &ensp;[[paper](https://arxiv.org/abs/2412.13422)]
 

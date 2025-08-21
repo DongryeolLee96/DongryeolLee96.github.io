@@ -73,24 +73,6 @@ Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Dec
 
  &ensp;[[paper](https://aclanthology.org/2023.findings-emnlp.772/)] [[code](https://github.com/DongryeolLee96/AskCQ)] [[slides](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_slides.pdf)] [[poster](https://dongryeollee96.github.io/pdf/EMNLP2023_AskCQ_A0_Poster.pdf)]
 
- Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding\
-   &ensp;Kyungmin Min, Minbeom Kim, Kang-il Lee, **<ins>Dongryeol Lee</ins>**, and Kyomin Jung<sup>&dagger;</sup>\
-   &ensp;Neurips 2024 Workshop on Safe Generative AI
-
- &ensp;[[paper](https://arxiv.org/abs/2410.13321)]
-
-
- MILAB at PragTag-2023 Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty\
-   &ensp;Yoonsang Lee<sup>\*</sup>, **<ins>Dongryeol Lee</ins>**<sup>\*</sup>, and Kyomin Jung<sup>&dagger;</sup>\
-   &ensp;EMNLP 2023 Workshop on Argument Mining
-
- &ensp;[[paper](https://aclanthology.org/2023.argmining-1.24/)]
-
- Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pretrained Language Model\
-   &ensp;Yunah Jang, **<ins>Dongryeol Lee</ins>**, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, and Kyomin Jung<sup>&dagger;</sup>\
-   &ensp;ACL 2022 Workshop on Document-grounded Dialogue and Conversational Question Answering
-
- &ensp;[[paper](https://aclanthology.org/2022.dialdoc-1.15/)]
 
 -------------
 

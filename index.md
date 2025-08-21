@@ -25,6 +25,18 @@ I am interested in Question Answering and fair evaluation metrics.
 \* indicates equal contribution among authors
 
 -------------
+ Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation\
+&ensp;Yerin Hwang<sup>\*</sup>, **<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Kyungmin Min, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;EMNLP 2025
+
+&ensp;[[paper](https://www.arxiv.org/abs/2505.15249)] 
+
+ Can You Trick the Grader? Adversarial Persuasion of LLM Judges\
+&ensp;Yerin Hwang, **<ins>Dongryeol Lee</ins>**, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;EMNLP 2025 (Findings)
+
+&ensp;[[paper](https://arxiv.org/abs/2508.07805)] 
+ 
  Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation\
 &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Yerin Hwang<sup>\*</sup>, Yongil Kim, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;NAACL 2025 (Oral)

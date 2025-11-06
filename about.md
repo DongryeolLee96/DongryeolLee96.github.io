@@ -25,17 +25,21 @@ I am interested in Question Answering and fair evaluation metrics.
 \* indicates equal contribution among authors
 
 -------------
+ Program Synthesis via Test-Time Transduction\
+&ensp;Kang-il Lee, Jahyun Koo, Seunghyun Yoon, Minbeom Kim, Hyukhun Koh, **<ins>Dongryeol Lee</ins>**, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;Neurips 2025
+
  Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation\
 &ensp;Yerin Hwang<sup>\*</sup>, **<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Kyungmin Min, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;EMNLP 2025
 
-&ensp;[[paper](https://www.arxiv.org/abs/2505.15249)] 
+&ensp;[[paper](https://aclanthology.org/2025.emnlp-main.1182/)] 
 
  Can You Trick the Grader? Adversarial Persuasion of LLM Judges\
 &ensp;Yerin Hwang, **<ins>Dongryeol Lee</ins>**, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;EMNLP 2025 (Findings)
 
-&ensp;[[paper](https://arxiv.org/abs/2508.07805)] 
+&ensp;[[paper](https://aclanthology.org/2025.findings-emnlp.790/)] 
  
  Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation\
 &ensp;**<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Yerin Hwang<sup>\*</sup>, Yongil Kim, Joonsuk Park<sup>&dagger;</sup>, and Kyomin Jung<sup>&dagger;</sup>\

@@ -23,9 +23,17 @@ I am interested in Question Answering and fair evaluation metrics.
 \* indicates equal contribution among authors
 
 -------------
+ Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation\
+&ensp;Jiwon Moon*, Yerin Hwang*, **<ins>Dongryeol Lee</ins>**, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
+ &ensp;EACL 2026
+
+ &ensp;[[paper](https://aclanthology.org/2026.findings-eacl.70/)] 
+
  Program Synthesis via Test-Time Transduction\
 &ensp;Kang-il Lee, Jahyun Koo, Seunghyun Yoon, Minbeom Kim, Hyukhun Koh, **<ins>Dongryeol Lee</ins>**, and Kyomin Jung<sup>&dagger;</sup>\
  &ensp;Neurips 2025
+
+&ensp;[[paper]( https://neurips.cc/virtual/2025/loc/san-diego/poster/117428)] 
 
  Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation\
 &ensp;Yerin Hwang<sup>\*</sup>, **<ins>Dongryeol Lee</ins>**<sup>\*</sup>, Kyungmin Min, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\

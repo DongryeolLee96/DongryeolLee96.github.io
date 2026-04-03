@@ -27,7 +27,7 @@ I am interested in Question Answering and fair evaluation metrics.
 -------------
 Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation\
 &ensp;Jiwon Moon*, Yerin Hwang*, **<ins>Dongryeol Lee</ins>**, Taegwan Kang, Yongil Kim, and Kyomin Jung<sup>&dagger;</sup>\
- &ensp;EACL 2026
+ &ensp;EACL 2026 (Findings)
 
  &ensp;[[paper](https://aclanthology.org/2026.findings-eacl.70/)] 
 

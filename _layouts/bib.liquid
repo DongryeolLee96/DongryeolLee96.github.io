@@ -25,6 +25,9 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+      {% if entry.annotation and entry.annotation contains 'Oral' %}
+        <abbr class="badge rounded w-100" style="background-color:#e74c3c; margin-top:4px;">Oral</abbr>
+      {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -135,16 +138,6 @@
         >
           {{- more_authors_hide -}}
         </span>
-      {% endif %}
-      {% if entry.annotation %}
-        <i
-          class="fa-solid fa-circle-info ml-1"
-          data-toggle="popover"
-          data-placement="top"
-          data-html="true"
-          data-content="{{ entry.annotation | escape }}"
-        >
-        </i>
       {% endif %}
     </div>
 

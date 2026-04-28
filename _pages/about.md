@@ -23,10 +23,25 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
 Hi! I am a Ph.D. student at Seoul National University ECE. I am fortunate to be advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html).
 
 My research interest is broadly in machine learning and natural language processing. I am particularly interested in **Question Answering** and **fair evaluation metrics** for large language models.
+
+---
+
+## Education
+
+- **Ph.D.** in Electrical and Computer Engineering, Seoul National University (2022 – present)
+  - Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)
+- **B.S.** in Electrical and Computer Engineering, Seoul National University (2016 – 2022)
+
+---
+
+## Work Experience
+
+- **Applied Scientist Intern**, Amazon (Sept 2025 – Feb 2026)
+  - Host: Saab Mansour

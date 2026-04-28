@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **NeurIPS 2025**: "Program Synthesis via Test-Time Transduction"
+Paper accepted at **NeurIPS 2025**: <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117428">Program Synthesis via Test-Time Transduction</a>

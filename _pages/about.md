@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -36,7 +36,7 @@ My research interest is broadly in machine learning and natural language process
   <img src="/assets/img/logo/snu_logo.png" alt="SNU" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
   <div>
     <strong>Seoul National University</strong><br>
-    Ph.D. in Electrical and Computer Engineering (2022 – present)<br>
+    Ph.D. in Electrical and Computer Engineering (2021 – present)<br>
     <small>Advisor: Prof. <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a></small>
   </div>
 </div>
@@ -45,7 +45,7 @@ My research interest is broadly in machine learning and natural language process
   <img src="/assets/img/logo/snu_logo.png" alt="SNU" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
   <div>
     <strong>Seoul National University</strong><br>
-    B.S. in Electrical and Computer Engineering (2016 – 2022)
+    B.S. in Naval Architecture and Ocean Engineering (2014 – 2021)
   </div>
 </div>
 

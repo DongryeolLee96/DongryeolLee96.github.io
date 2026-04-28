@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **EACL 2026** (Findings): "Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation"
+Paper accepted at **EACL 2026** (Findings): <a href="https://aclanthology.org/2026.findings-eacl.70/">Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation</a>

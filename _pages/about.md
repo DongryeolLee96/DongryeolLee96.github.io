@@ -57,7 +57,7 @@ My research interest is broadly in machine learning and natural language process
   <img src="/assets/img/logo/amazon_logo.jpeg" alt="Amazon" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
   <div>
     <strong>Amazon</strong><br>
-    Applied Scientist Intern (Sept 2025 – Feb 2026)<br>
+    Applied Scientist Intern (Sep 2025 – Feb 2026)<br>
     <small>Host: <a href="https://www.linkedin.com/in/saabmansour/">Saab Mansour</a></small>
   </div>
 </div>

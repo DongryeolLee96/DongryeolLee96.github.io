@@ -85,18 +85,11 @@ ninja.data = [{
           window.open("mailto:%64%72%6C%31%32%33@%73%6E%75.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/DongryeolLee96", "_blank");
-        },
-      },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/don.lee96", "_blank");
+          window.open("https://scholar.google.com/citations?user=vgTGZ10AAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',

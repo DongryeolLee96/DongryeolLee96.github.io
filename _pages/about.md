@@ -35,13 +35,32 @@ My research interest is broadly in machine learning and natural language process
 
 ## Education
 
-- **Ph.D.** in Electrical and Computer Engineering, Seoul National University (2022 – present)
-  - Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)
-- **B.S.** in Electrical and Computer Engineering, Seoul National University (2016 – 2022)
+<div style="display:flex; align-items:center; margin-bottom:8px;">
+  <img src="/assets/img/logo/snu_logo.png" alt="SNU" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
+  <div>
+    <strong>Seoul National University</strong><br>
+    Ph.D. in Electrical and Computer Engineering (2022 – present)<br>
+    <small>Advisor: Prof. <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a></small>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:8px;">
+  <img src="/assets/img/logo/snu_logo.png" alt="SNU" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
+  <div>
+    <strong>Seoul National University</strong><br>
+    B.S. in Electrical and Computer Engineering (2016 – 2022)
+  </div>
+</div>
 
 ---
 
 ## Work Experience
 
-- **Applied Scientist Intern**, Amazon (Sept 2025 – Feb 2026)
-  - Host: Saab Mansour
+<div style="display:flex; align-items:center; margin-bottom:8px;">
+  <img src="/assets/img/logo/amazon_logo.jpeg" alt="Amazon" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
+  <div>
+    <strong>Amazon</strong><br>
+    Applied Scientist Intern (Sept 2025 – Feb 2026)<br>
+    <small>Host: Saab Mansour</small>
+  </div>
+</div>

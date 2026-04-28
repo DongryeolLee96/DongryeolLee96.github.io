@@ -26,7 +26,7 @@ latest_posts:
 
 Hi! I am a Ph.D. student at Seoul National University ECE. I am fortunate to be advised by Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html).
 
-My research interest is broadly in machine learning and natural language processing. I am particularly interested in **Question Answering** and **fair evaluation metrics** for large language models.
+My research interest is broadly in machine learning and natural language processing. I am particularly interested in **Question Answering** and **Fair Evaluation metrics** for large language models.
 
 ---
 
@@ -58,6 +58,15 @@ My research interest is broadly in machine learning and natural language process
   <div>
     <strong>Amazon</strong><br>
     Applied Scientist Intern (Sept 2025 – Feb 2026)<br>
-    <small>Host: Saab Mansour</small>
+    <small>Host: <a href="https://www.linkedin.com/in/saabmansour/">Saab Mansour</a></small>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:8px;">
+  <img src="/assets/img/logo/naver.png" alt="NAVER" style="width:48px; height:48px; object-fit:contain; margin-right:14px; flex-shrink:0;">
+  <div>
+    <strong>NAVER</strong><br>
+    Collaborative Researcher (Mar 2022 – Mar 2025)<br>
+    <small>Host: <a href="https://facultystaff.richmond.edu/~jpark/">Joonsuk Park</a></small>
   </div>
 </div>

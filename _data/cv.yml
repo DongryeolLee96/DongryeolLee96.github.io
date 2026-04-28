@@ -1,0 +1,52 @@
+cv:
+  name: Dongryeol Lee
+  label: Ph.D. Student
+  email: drl123@snu.ac.kr
+  location: Seoul, South Korea
+  image: ""
+  summary: Ph.D. student at Seoul National University ECE, advised by Prof. Kyomin Jung. Research interests include NLP, Question Answering, and LLM evaluation.
+
+  social_networks:
+    - network: GitHub
+      username: DongryeolLee96
+    - network: LinkedIn
+      username: dongryeol-lee-a29281249
+
+  sections:
+    Education:
+      - institution: Seoul National University
+        location: Seoul, South Korea
+        url: https://www.snu.ac.kr/
+        area: Electrical and Computer Engineering
+        studyType: Ph.D. (ongoing)
+        start_date: 2022
+        end_date: present
+        highlights:
+          - Advised by Prof. Kyomin Jung (Machine Intelligence Lab)
+          - Research focus on NLP, Question Answering, LLM Evaluation
+
+      - institution: Seoul National University
+        location: Seoul, South Korea
+        url: https://www.snu.ac.kr/
+        area: Electrical and Computer Engineering
+        studyType: B.S.
+        start_date: 2016
+        end_date: 2022
+
+    Skills:
+      - name: Research
+        level: Expert
+        icon: fa-solid fa-hashtag
+        keywords: "Natural Language Processing, Question Answering, LLM Evaluation, Machine Learning"
+
+      - name: Programming
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "Python, PyTorch, Transformers, HuggingFace"
+
+    Languages:
+      - name: Korean
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"

@@ -55,7 +55,7 @@ ninja.data = [{
           title: 'I have joined Amazon as an Applied Scientist Intern.',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-emnlp-2025-fooling-the-lvlm-judges-main-and-can-you-trick-the-grader-findings",
-          title: 'Two papers accepted at EMNLP 2025: Fooling the LVLM Judges (main) and Can...',
+          title: 'Two papers accepted at EMNLP 2025: Fooling the LVLM Judges (Main) and Can...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-neurips-2025-program-synthesis-via-test-time-transduction",
           title: 'Paper accepted at NeurIPS 2025: Program Synthesis via Test-Time Transduction',

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-24'
 papers:
   vgTGZ10AAAAJ:9yKSN-GCB0IC:
     citations: 2
@@ -10,15 +10,15 @@ papers:
     title: Mitigating hallucinations in lvlms via summary-guided decoding
     year: '2024'
   vgTGZ10AAAAJ:Tyk-4Ss8FVUC:
-    citations: 30
+    citations: 31
     title: Are LLM-judges robust to expressions of uncertainty? investigating the effect of epistemic markers on LLM-based evaluation
     year: '2024'
   vgTGZ10AAAAJ:UeHWp8X0CEIC:
-    citations: 43
+    citations: 44
     title: 'VLind-Bench: Measuring Language Priors in Large Vision-Language Models'
     year: '2024'
   vgTGZ10AAAAJ:W7OEmFMy1HYC:
-    citations: 2
+    citations: 3
     title: 'Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation'
     year: '2025'
   vgTGZ10AAAAJ:WF5omc3nYNoC:
@@ -26,15 +26,15 @@ papers:
     title: Program Synthesis via Test-Time Transduction
     year: '2025'
   vgTGZ10AAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: Generating Diverse Hypotheses for Inductive Reasoning
     year: '2024'
   vgTGZ10AAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 15
     title: 'Don''t Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation'
     year: '2025'
   vgTGZ10AAAAJ:_FxGoFyzp5QC:
-    citations: 3
+    citations: 6
     title: 'When Wording Steers the Evaluation: Framing Bias in LLM judges'
     year: '2026'
   vgTGZ10AAAAJ:d1gkVwhDpl0C:
@@ -54,10 +54,10 @@ papers:
     title: Improving multiple documents grounded goal-oriented dialog systems via diverse knowledge enhanced pretrained language model
     year: '2022'
   vgTGZ10AAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 3
     title: 'Judging Against the Reference: Uncovering Knowledge-Driven Failures in LLM-Judges on QA Evaluation'
     year: '2026'
   vgTGZ10AAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 22
     title: Mitigating hallucinations in large vision-language models via summary-guided decoding
     year: '2024'

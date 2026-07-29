@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-29'
 papers:
   vgTGZ10AAAAJ:9yKSN-GCB0IC:
     citations: 2
@@ -10,15 +10,15 @@ papers:
     title: Mitigating hallucinations in lvlms via summary-guided decoding
     year: '2024'
   vgTGZ10AAAAJ:Tyk-4Ss8FVUC:
-    citations: 31
+    citations: 34
     title: Are LLM-judges robust to expressions of uncertainty? investigating the effect of epistemic markers on LLM-based evaluation
     year: '2024'
   vgTGZ10AAAAJ:UeHWp8X0CEIC:
-    citations: 45
+    citations: 49
     title: 'VLind-Bench: Measuring Language Priors in Large Vision-Language Models'
     year: '2024'
   vgTGZ10AAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 6
     title: 'Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation'
     year: '2025'
   vgTGZ10AAAAJ:WF5omc3nYNoC:
@@ -30,19 +30,19 @@ papers:
     title: Generating Diverse Hypotheses for Inductive Reasoning
     year: '2024'
   vgTGZ10AAAAJ:YsMSGLbcyi4C:
-    citations: 16
+    citations: 19
     title: 'Don''t Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation'
     year: '2025'
   vgTGZ10AAAAJ:_FxGoFyzp5QC:
-    citations: 6
+    citations: 7
     title: 'When Wording Steers the Evaluation: Framing Bias in LLM judges'
     year: '2026'
   vgTGZ10AAAAJ:d1gkVwhDpl0C:
-    citations: 48
+    citations: 51
     title: Asking Clarification Questions to Handle Ambiguity in Open-Domain QA
     year: '2023'
   vgTGZ10AAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: Can You Trick the Grader? Adversarial Persuasion of LLM Judges
     year: '2025'
   vgTGZ10AAAAJ:qjMakFHDy7sC:
@@ -54,10 +54,10 @@ papers:
     title: Improving multiple documents grounded goal-oriented dialog systems via diverse knowledge enhanced pretrained language model
     year: '2022'
   vgTGZ10AAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: 'Judging Against the Reference: Uncovering Knowledge-Driven Failures in LLM-Judges on QA Evaluation'
     year: '2026'
   vgTGZ10AAAAJ:zYLM7Y9cAGgC:
-    citations: 24
+    citations: 26
     title: Mitigating hallucinations in large vision-language models via summary-guided decoding
     year: '2024'

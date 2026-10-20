@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/paper-reviews/";
+            window.location.href = "/https:/pleasant-catcher-07d.notion.site/";
           },
         },{id: "nav-cv",
           title: "CV",
